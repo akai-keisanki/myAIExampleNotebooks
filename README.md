@@ -1,2 +1,3 @@
 # myAIExampleNotebooks
-Example notebooks of my AI studies
+Example notebooks of my AI studies.
+Machine Learning*, more accurately.
